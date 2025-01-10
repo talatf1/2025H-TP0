@@ -1,7 +1,7 @@
 # TP0: Introduction au terminal et à Git/GitHub
 
-*À noter: le tutoriel ci-bas est à réaliser après avoir consulté le jupyter notebook intitulé intro_TP0.ipynb*
-La visualisation des jupyter notebook est possible directement via l'environnement PyCharm ou Visual Studio Code que vous avez déjà installé.
+*À noter: le tutoriel ci-dessous est à réaliser après avoir consulté le jupyter notebook intitulé intro_TP0.ipynb*
+La visualisation des jupyter notebook est possible directement via l'environnement Visual Studio Code que vous aurez installé. 
 
 ## Contenu
 - [TP0: Introduction au terminal et à Git/GitHub](#tp0-introduction-au-terminal-et-à-gitgithub)
@@ -34,10 +34,10 @@ Git est un système de gestion de versions, il vous permet de garder un historiq
 Afin de débuter, il faut s'assurer d'avoir installé [Git](https://git-scm.com/downloads) au préalable en suivant le lien. Par la suite, voici les étapes à réaliser:
 
 1. Se créer un dossier INF1007 quelque part sur son ordinateur pour y garder les prochains TPs et projets en plus du TP0 actuel. Il est aussi possible de le faire directement via un terminal en utilisant la commande `mkdir`
-2. Ouvrir VSCode ou PyCharm et cliquer sur `Open Folder` tel qu'illustré sur la Figure 1 ci-dessous et choisir le nouveau dossier INF1007 créé
-3. Cliquer sur `Terminal` dans la barre de recherche de VSCode puis `New Terminal` pour commencer avec la première commande git soit [git clone](#git-clone) ou bien sur PyCharm c'est en bas de la page et nommé `Terminal` aussi.
+2. Ouvrir VSCode et cliquer sur `Open Folder` tel qu'illustré sur la Figure 1 ci-dessous et choisir le nouveau dossier INF1007 créé
+3. Cliquer sur `Terminal` dans la barre de recherche de VSCode puis `New Terminal` pour commencer avec la première commande git, soit [git clone](#git-clone)
 4. Maintenant, vous pouvez fermer le VSCode ou bien cliquer sur `File` puis `Open Folder...` et ouvrir maintenant le répertoire GitHub qui a été cloné (intitulé par exemple L01-TP0-votre-username-git)
-5. Vous être prêts à faire toutes les [commandes les plus utilisées](#computer-commandes-les-plus-utilisées) de Git à partir de [git add](git-add) jusqu'à [git push](#git-push), c'est parti!
+5. Vous être prêts à faire toutes les [commandes les plus utilisées](#computer-commandes-les-plus-utilisées) de Git à partir de [git add](git-add) jusqu'à [git push](#git-push).
 6. (Optionnel) Vérifier que tout a été mis sur GitHub en cliquant sur refresh et en voyant vos modifications!
 
 | ![alt text](https://github.com/INF1007-Gabarits/TP0/blob/main/images/open_folder.png) | 
