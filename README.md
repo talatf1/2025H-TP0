@@ -36,7 +36,7 @@ Afin de débuter, il faut s'assurer d'avoir installé [Git](https://git-scm.com/
 1. Se créer un dossier INF1007 quelque part sur son ordinateur pour y garder les prochains TPs et projets en plus du TP0 actuel. Il est aussi possible de le faire directement via un terminal en utilisant la commande `mkdir`
 2. Ouvrir VSCode et cliquer sur `Open Folder` tel qu'illustré sur la Figure 1 ci-dessous et choisir le nouveau dossier INF1007 créé
 3. Cliquer sur `Terminal` dans la barre de recherche de VSCode puis `New Terminal` pour commencer avec la première commande git, soit [git clone](#git-clone)
-4. Maintenant, vous pouvez fermer le VSCode ou bien cliquer sur `File` puis `Open Folder...` et ouvrir maintenant le répertoire GitHub qui a été cloné (intitulé par exemple L01-TP0-votre-username-git)
+4. Maintenant, vous pouvez cliquer sur `File` puis `Open Folder...` et ouvrir maintenant le répertoire GitHub qui a été cloné (intitulé par exemple L01-TP0-votre-username-git)
 5. Vous être prêts à faire toutes les [commandes les plus utilisées](#computer-commandes-les-plus-utilisées) de Git à partir de [git add](git-add) jusqu'à [git push](#git-push).
 6. (Optionnel) Vérifier que tout a été mis sur GitHub en cliquant sur refresh et en voyant vos modifications!
 
