@@ -30,6 +30,8 @@ Se familiariser avec les commandes les plus communes que vous allez utiliser sur
 ## :octocat: Qu'est-ce que Git/GitHub?
 Git est un système de gestion de versions, il vous permet de garder un historique de toutes les modifications que vous faites dans un répertoire (lieu où vous sauvegardez un TP/Projet dans votre cas) aux fichiers qui y sont présents. Ainsi, il est plus facile de vous rappeler les divers modifications qui y ont été faites en les associant à un message informatif. Ceci enlève le risque de perdre votre travail puisque tout est inventorié. Également, Git facilite le travail collaboratif puisque deux personnes peuvent avoir une copie locale du même projet auquel ils font des modifications en parallèle. Quant à lui, GitHub est site web qui permet d'entreposer des répertoires Git en ligne.
 
+Si vous n'avez pas déjà un compte Github, vous pouvez en créer un à partir de ce lien: [Créer un compte GitHub](https://github.com) 
+
 ## Ouvrir un nouveau dossier sur VSCode et l'utiliser
 Afin de débuter, il faut s'assurer d'avoir installé [Git](https://git-scm.com/downloads) au préalable en suivant le lien. Par la suite, voici les étapes à réaliser:
 
